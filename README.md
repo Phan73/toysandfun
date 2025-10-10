@@ -78,10 +78,9 @@ The website will have a consistent top navigation bar with the following section
 
 To be defined during development stage. Suggested stack:
 
-- HTML5 / CSS3  
-- JavaScript (React or Vue)  
-- Node.js / Express  
-- MongoDB or Firebase  
+- HTML5  
+- JavaScript 
+- Node.js  
 - Stripe or PayPal for payment gateway  
 
 ---
